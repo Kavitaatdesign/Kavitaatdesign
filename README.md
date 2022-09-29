@@ -3,23 +3,23 @@
 - 💞️ I’m looking to collaborate on any Devops Projects
 
 - 🧾 Certifications I have Accomplished
-- 🎖 AWS Certified Cloud Practitioner
-- 🎖 AWS Certified Solutions Architect - Associate
+    - 🎖 AWS Certified Cloud Practitioner
+    - 🎖 AWS Certified Solutions Architect - Associate
 
 - OS Stack
-- Linux, Windows
+    - Linux, Windows
 
 - Database Stack
-- Mysql, Postgresql
+    - Mysql, Postgresql
 
 - Programming Language Stack
-- Bash, Python, Java
+    - Bash, Python, Java
 
 - DevOps Stack
-- AWS, GCP, Ansible, Terraform, Jenkins, Docker, Kubernetes, Nginx
+    - AWS, GCP, AZURE, Ansible, Terraform, Jenkins, Docker, Kubernetes, Nginx
 
 - Project Management Stack
-- Git, Github, Trello
+    - Git, Github, Trello
 
 <!---
 Kavitaatdesign/Kavitaatdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
