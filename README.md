@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kavita Mishra currently working at The India Art Investement Company as Ecommerce Technical Manager
+- 👋 Hi, I’m Kavita Mishra currently working at The India Art Investment Company as Ecommerce Technical Manager
 - 🌱 I’m currently managing website project Haath Ka Bana over AWS
 - 💞️ I’m looking to collaborate on any Devops Projects
 
