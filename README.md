@@ -19,7 +19,7 @@
     - AWS, GCP, AZURE, Ansible, Terraform, Jenkins, Docker, Kubernetes, Nginx
 
 - Project Management Stack
-    - Git, Github, Trello
+    - Git, Github, Trello, Slack, Jira
 
 <!---
 Kavitaatdesign/Kavitaatdesign is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
