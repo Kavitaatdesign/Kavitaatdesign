@@ -1,10 +1,12 @@
-- 👋 Hi, I’m Kavita Mishra currently working at The India Art Investment Company as Ecommerce Technical Manager
-- 🌱 I’m currently managing website project Haath Ka Bana over AWS
-- 💞️ I’m looking to collaborate on any Devops Projects
+- 👋 Hi, I’m Kavita Mishra currently working at CBA as Security Engineer
+- 🌱 I'm a Security Engineer passionate about safeguarding systems and data from emerging threats. With a strong background in threat analysis, vulnerability management, and secure coding practices, I enjoy collaborating on open-source projects and sharing knowledge with the community. Check out my repositories for tools, scripts, and resources that enhance security in software development. Let’s connect and work towards a safer digital landscape together!
+- 💞️ I’m looking to collaborate on any Security related Projects
 
 - 🧾 Certifications I have Accomplished
+    - 🎖 Certified Ethical Hacking
     - 🎖 AWS Certified Cloud Practitioner
-    - 🎖 AWS Certified Solutions Architect - Associate
+    - 🎖 AWS Certified Solutions Architect - Associate 
+    - 🎖 AWS Certified Developer - Associate
 
 - OS Stack
     - Linux, Windows
